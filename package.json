@@ -1,42 +1,14 @@
 {
-  "_from": "react-native-idle@^1.1.0",
-  "_id": "react-native-idle@1.1.0",
-  "_inBundle": false,
-  "_integrity": "sha1-mmrBt+CF1ITVHbMx3wh3EZMUY6k=",
-  "_location": "/react-native-idle",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "range",
-    "registry": true,
-    "raw": "react-native-idle@^1.1.0",
-    "name": "react-native-idle",
-    "escapedName": "react-native-idle",
-    "rawSpec": "^1.1.0",
-    "saveSpec": null,
-    "fetchSpec": "^1.1.0"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "http://registry.npm.taobao.org/react-native-idle/download/react-native-idle-1.1.0.tgz",
-  "_shasum": "9a6ac1b7e085d484d51db331df087711931463a9",
-  "_spec": "react-native-idle@^1.1.0",
-  "_where": "/Users/liilianyou/shenmoinfo/SourceCode/XuetangApp",
-  "author": "",
-  "bundleDependencies": false,
-  "deprecated": false,
+  "version": "1.2.0",
   "description": "Prevent screen to sleep in ReactNative app.",
+  "homepage": "https://github.com/MR03web",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MR03web/react-native-idle.git"
+  },
   "license": "ISC",
   "main": "index.js",
   "name": "react-native-idle",
-  "rnpm": {
-    "android": {
-      "packageInstance": "new RNIdlePackage()"
-    },
-    "ios": {
-      "project": "ios/RNIdle.xcodeproj"
-    }
-  },
-  "scripts": {},
-  "version": "1.1.0"
+  "scripts": {}
 }
